@@ -31,7 +31,7 @@
     "react-export-excel": "^0.5.3",
     "react-gantt-timeline": "^0.4.3",
     "react-jsgantt": "^2.4.3",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-timeline-9000": "^1.1.3",
     "react-visjs-timeline": "^1.6.0",
     "vis-timeline": "^7.4.2"
